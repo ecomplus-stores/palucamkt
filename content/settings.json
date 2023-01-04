@@ -1,10 +1,10 @@
 {
   "domain": "palucamkt.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ed8543",
+  "primary_color": "#006666",
   "theme": {
     "bootswatch": "cosmo",
-    "custom": "clean-white"
+    "custom": "niche-game"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/palucamkt",
