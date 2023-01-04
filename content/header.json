@@ -1,13 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "",
+        "link": ""
       },
       {
         "title": "Esta loja é um PWA",
@@ -20,10 +20,10 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "full_width_submenu": true
 }
