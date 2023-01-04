@@ -42,9 +42,26 @@
       "page": 1
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cadeira-presidente.jpg",
+          "alt": "Cadeira Presidente"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
