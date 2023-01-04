@@ -42,15 +42,6 @@
       "page": 1
     },
     {
-      "type": "blog",
-      "enabled": true
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 10,
@@ -58,6 +49,15 @@
       "collection_id": "63b583ce4834634f7327e3e9:categories:Operativa:/cadeira-escritorio-operativa",
       "sort": "views",
       "title": "Móveis de aço"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
