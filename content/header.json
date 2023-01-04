@@ -18,7 +18,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": true
+    "full_width": false
   },
   "desktop_megamenu": true,
   "search_input": true,
