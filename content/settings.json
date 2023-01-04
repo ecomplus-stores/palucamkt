@@ -1,10 +1,10 @@
 {
   "domain": "palucamkt.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#ed8543",
   "theme": {
     "bootswatch": "cosmo",
-    "custom": "_"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/palucamkt",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favico.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#ed8543",
+  "secondary_color": "#006666",
   "icon": "/img/uploads/logo-escuro.png",
   "store_id": 51346,
   "description": "Móveis para escritório em Niterói - RJ é na Paluca Móveis, Mesa de escritório, cadeiras para escritório, armários e gaveteiro. Móveis corporativo online.",
