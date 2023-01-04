@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "PRODUTOS COM ATÉ 20% DE DESCONTO!",
     "link": "",
     "background": "#006666",
     "color": "#ffffff"
@@ -10,10 +10,6 @@
       {
         "title": "",
         "link": ""
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
