@@ -47,6 +47,14 @@
         {
           "img": "/img/uploads/cadeira-presidente.jpg",
           "alt": "Cadeira Presidente"
+        },
+        {
+          "img": "/img/uploads/estacao-de-trabalho.jpg",
+          "alt": "Estação de trabalho"
+        },
+        {
+          "img": "/img/uploads/mesa-de-escritorio.jpg",
+          "alt": "Mesa para escritório"
         }
       ]
     },
