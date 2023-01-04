@@ -4,7 +4,7 @@
   "primary_color": "#006666",
   "theme": {
     "bootswatch": "cosmo",
-    "custom": "niche-game"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/palucamkt",
