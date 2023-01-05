@@ -73,6 +73,12 @@
       "offset": 0,
       "autoplay": 9000,
       "sort": "name"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cadeira_nacional.webp",
+      "alt": "Cadeiras para escritório",
+      "link": "cadeiras-para-escritorio"
     }
   ]
 }
