@@ -1,10 +1,10 @@
 {
   "domain": "palucamoveis.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#121313",
+  "primary_color": "#252828",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/palucamkt",
