@@ -83,6 +83,10 @@
       "offset": 0,
       "autoplay": 9000,
       "sort": "name"
+    },
+    {
+      "type": "blog",
+      "enabled": false
     }
   ]
 }
