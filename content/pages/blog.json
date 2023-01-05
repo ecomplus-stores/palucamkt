@@ -1,0 +1,11 @@
+{
+  "title": "Blog",
+  "meta_title": "Confira as dicas em nosso Blog",
+  "sections": [
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "body": "B﻿log"
+}
