@@ -51,10 +51,6 @@
       "title": "Móveis de aço"
     },
     {
-      "type": "blog",
-      "enabled": false
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
