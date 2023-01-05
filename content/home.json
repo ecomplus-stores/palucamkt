@@ -46,7 +46,8 @@
       "banners": [
         {
           "img": "/img/uploads/cadeira-presidente.webp",
-          "alt": "cadeira presidente"
+          "alt": "cadeira presidente",
+          "link": "cadeira-presidente-ergonomica"
         },
         {
           "img": "/img/uploads/moveis-colaborativo.webp",
