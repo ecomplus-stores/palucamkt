@@ -12,7 +12,7 @@
     },
     {
       "type": "blog",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
