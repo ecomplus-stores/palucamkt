@@ -64,8 +64,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": null,
-      "sort": "lowest_price",
-      "title": "OFERTAS"
+      "sort": "views",
+      "title": "Produtos e destaque"
     },
     {
       "type": "brands-carousel",
