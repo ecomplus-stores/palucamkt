@@ -56,8 +56,8 @@
       "offset": 0
     },
     {
-      "type": "blog",
-      "enabled": true
+      "type": "custom-html",
+      "html": "<div class=\"blog my-4 my-lg-5\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col col-md-6 col-lg-4\">\n                <div class=\"card\"><a href=\"/posts/confeccao-pentagram-shelf-2020-08-21\"><img\n                            src=\"/img/uploads/penta.jpg\" class=\"card-img-top\" alt=\"CONFECÇÃO PENTAGRAM SHELF LUNA\"></a>\n                    <div class=\"card-body\">\n                        <h5 class=\"card-title\"><a href=\"/posts/confeccao-pentagram-shelf-2020-08-21\">CONFECÇÃO PENTAGRAM\n                                SHELF LUNA</a></h5>\n                        <p class=\"card-text\"></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col col-md-6 col-lg-4\">\n                <div class=\"card\"><a href=\"/posts/confeccao-prateleira-bat-2020-08-21\"><img src=\"/img/uploads/bat.jpg\"\n                            class=\"card-img-top\" alt=\"CONFECÇÃO PRATELEIRA BAT \"></a>\n                    <div class=\"card-body\">\n                        <h5 class=\"card-title\"><a href=\"/posts/confeccao-prateleira-bat-2020-08-21\">CONFECÇÃO PRATELEIRA\n                                BAT</a></h5>\n                        <p class=\"card-text\"></p>\n                    </div>\n                </div>\n            </div>"
     }
   ]
 }
