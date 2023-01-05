@@ -55,7 +55,8 @@
         },
         {
           "img": "/img/uploads/mesa-de-escritorio.webp",
-          "alt": "mesa para escritório"
+          "alt": "mesa para escritório",
+          "link": "mesa-para-escritorio"
         }
       ]
     },
