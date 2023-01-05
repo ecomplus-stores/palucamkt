@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0c5a2e4b8509586ac9ed0c9e5f556f12.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.8c5b9a2f50be028d410898e0b0dca17f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.718063ec5e6c70a87546ea7640b6aab2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.99b5f795a630d81fdc8240d1c5a9dd12.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.cee75b62babd8b8d2538caef4e7b7c62.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Paluca Móveis",
+  "short_name": "Paluca Móveis",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Móveis para escritório em Niterói - RJ é na Paluca Móveis, Mesa de escritório, cadeiras para escritório, armários e gaveteiro. Móveis corporativo online.",
+  "background_color": "#ffffff",
+  "theme_color": "#006666"
+}
