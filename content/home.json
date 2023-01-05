@@ -68,17 +68,17 @@
       "title": "Produtos em destaque"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cadeira_nacional.webp",
+      "alt": "Cadeiras para escritório",
+      "link": "cadeiras-para-escritorio"
+    },
+    {
       "type": "brands-carousel",
       "limit": 6,
       "offset": 0,
       "autoplay": 9000,
       "sort": "name"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/cadeira_nacional.webp",
-      "alt": "Cadeiras para escritório",
-      "link": "cadeiras-para-escritorio"
     }
   ]
 }
