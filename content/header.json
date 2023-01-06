@@ -13,10 +13,10 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": true
+    "full_width": false
   },
-  "desktop_megamenu": false,
-  "search_input": true,
+  "desktop_megamenu": true,
+  "search_input": false,
   "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
