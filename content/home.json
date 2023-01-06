@@ -81,6 +81,14 @@
       "type": "page-title",
       "title": "Móveis para escritório RJ",
       "description": ""
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null,
+      "sort": "highest_price"
     }
   ]
 }
