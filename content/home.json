@@ -12,7 +12,8 @@
           "end": "",
           "img": "/img/uploads/cadeira-eiffel.webp",
           "alt": "Cadeiras Eiffel",
-          "link": "cadeira-eiffel"
+          "link": "cadeira-eiffel",
+          "mobile_img": "/img/uploads/cadeira-eiffel-m.webp"
         },
         {
           "start": "",
