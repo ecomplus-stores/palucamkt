@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<script type=\"application/ld+json\">\n{\n  \"@context\" : \"http://schema.org\",\n  \"@type\" : \"Paluca móveis\",\n  \"name\" : \"Paluca Móveis\",\n \"url\" : \"https://www.palucamoveis.com.br\",\n \"sameAs\" : [\n   \"https://twitter.com/palucamoveis\",\n   \"https://www.facebook.com/palucamoveis\",\n   \"https://www.instagram.com/palucamoveis/\"\n   ],\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Alameda São Boaventura, 229 - Loja A - NIterói\",\n    \"addressRegion\": \"RJ\",\n    \"postalCode\": \"24130-005\",\n    \"addressCountry\": \"BR\"\n  }\n}\n</script>"
 }
