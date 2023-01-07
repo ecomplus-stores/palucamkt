@@ -27,7 +27,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/plataforma-de-trabalho.webp",
-          "alt": "Estação de trabalho"
+          "alt": "Estação de trabalho",
+          "mobile_img": "/img/uploads/estacao-de-trabalho-m.webp"
         }
       ]
     },
