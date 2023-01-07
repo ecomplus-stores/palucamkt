@@ -4,7 +4,7 @@
   "primary_color": "#252828",
   "theme": {
     "bootswatch": "united",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/palucamkt",
