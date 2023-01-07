@@ -8,27 +8,27 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
-          "end": "",
+          "start": "2023-01-07T03:00:00.000Z",
+          "end": "2026-02-28T03:00:00.000Z",
           "img": "/img/uploads/cadeira-eiffel.webp",
           "alt": "Cadeiras Eiffel",
           "link": "cadeira-eiffel",
-          "mobile_img": "/img/uploads/cadeira-eiffel-m.jpg"
+          "mobile_img": "/img/uploads/cadeira-eiffel-m.webp"
         },
         {
-          "start": "",
-          "end": "",
+          "start": "2023-01-07T03:00:00.000Z",
+          "end": "2025-08-30T19:50:36.080Z",
           "img": "/img/uploads/moveis-para-escritorio.webp",
           "alt": "Móveis para escritório",
           "link": "moveis-para-escritorio",
-          "mobile_img": "/img/uploads/moveis-para-escritorio-m.jpg"
+          "mobile_img": "/img/uploads/moveis-para-escritorio-m.webp"
         },
         {
-          "start": "",
-          "end": "",
+          "start": "2023-01-07T03:00:00.000Z",
+          "end": "2025-09-30T03:00:00.000Z",
           "img": "/img/uploads/plataforma-de-trabalho.webp",
           "alt": "Estação de trabalho",
-          "mobile_img": "/img/uploads/estacao-de-trabalho-m.jpg"
+          "mobile_img": "/img/uploads/estacao-de-trabalho-m.webp"
         }
       ]
     },
