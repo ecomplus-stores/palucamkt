@@ -20,7 +20,8 @@
           "end": "",
           "img": "/img/uploads/moveis-para-escritorio.webp",
           "alt": "Móveis para escritório",
-          "link": "moveis-para-escritorio"
+          "link": "moveis-para-escritorio",
+          "mobile_img": "/img/uploads/moveis-para-escritorio-m.webp"
         },
         {
           "start": "",
