@@ -13,7 +13,7 @@
           "img": "/img/uploads/cadeira-eiffel.webp",
           "alt": "Cadeiras Eiffel",
           "link": "cadeira-eiffel",
-          "mobile_img": "/img/uploads/cadeira-eiffel-m.webp"
+          "mobile_img": "/img/uploads/cadeira-eiffel-m.jpg"
         },
         {
           "start": "",
@@ -21,14 +21,14 @@
           "img": "/img/uploads/moveis-para-escritorio.webp",
           "alt": "Móveis para escritório",
           "link": "moveis-para-escritorio",
-          "mobile_img": "/img/uploads/moveis-para-escritorio-m.webp"
+          "mobile_img": "/img/uploads/moveis-para-escritorio-m.jpg"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/plataforma-de-trabalho.webp",
           "alt": "Estação de trabalho",
-          "mobile_img": "/img/uploads/estacao-de-trabalho-m.webp"
+          "mobile_img": "/img/uploads/estacao-de-trabalho-m.jpg"
         }
       ]
     },
