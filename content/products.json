@@ -17,13 +17,13 @@
       "title": "Produtos relacionados"
     },
     {
+      "type": "product-specifications",
+      "enabled": true
+    },
+    {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:",
       "show_loading": true
-    },
-    {
-      "type": "product-specifications",
-      "enabled": true
     }
   ]
 }
