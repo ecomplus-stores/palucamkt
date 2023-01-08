@@ -15,10 +15,6 @@
       "type": "category-retail",
       "enabled": true,
       "sort": "views"
-    },
-    {
-      "type": "document-description",
-      "enabled": true
     }
   ]
 }
