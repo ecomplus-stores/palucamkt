@@ -1,1 +1,16 @@
 // Add your custom CSS here.
+.product-card--inactive .badge-warning {
+    font-size: 0;
+    padding: 5px
+}
+.product-card--inactive .badge-warning:after {
+    font-size: 13px !important;
+    content: 'Sob encomenda'
+}
+.product__unavailable {
+    font-size: 0
+  }
+  .product__unavailable:after {
+    font-size: 1rem !important;
+    content: 'Sob encomenda: Caso tenha interesse, envie mensagem no whatsapp '
+  }
