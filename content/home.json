@@ -43,7 +43,7 @@
       "sort": "lowest_price",
       "title": "",
       "headless": false,
-      "limit": 12,
+      "limit": 8,
       "page": 2
     },
     {
