@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "PRODUTOS COM ATÉ 20% DE DESCONTO!",
+    "text": "Produtos com até 30% de desconto",
     "link": "",
-    "background": "#f18809",
-    "color": "#000000"
+    "background": "#ed8543",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
