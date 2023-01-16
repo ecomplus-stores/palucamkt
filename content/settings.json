@@ -1,7 +1,7 @@
 {
   "domain": "www.palucamoveis.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#2f4f4f",
+  "primary_color": "#e07a00",
   "theme": {
     "bootswatch": "_",
     "custom": "ecom-beauty"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favico.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#e07a00",
+  "secondary_color": "#2f4f4f",
   "icon": "/img/uploads/logo-escuro.original.webp",
   "store_id": 51346,
   "description": "Móveis para escritório - Cadeiras para escritório - Moveis de aço - Mesas de escritório  - Cadeira Presidente e muito mais para montar seu escritório completo.",
