@@ -28,7 +28,8 @@
           "end": "2025-09-30T03:00:00.000Z",
           "img": "/img/uploads/plataforma-de-trabalho.webp",
           "alt": "Estação de trabalho",
-          "mobile_img": "/img/uploads/estacao-de-trabalho-m.webp"
+          "mobile_img": "/img/uploads/estacao-de-trabalho-m.webp",
+          "link": "estacao-de-trabalho"
         }
       ]
     },
