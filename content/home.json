@@ -42,7 +42,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "lowest_price",
-      "title": "",
+      "title": "Maia populares!",
       "headless": false,
       "limit": 8,
       "page": 2
