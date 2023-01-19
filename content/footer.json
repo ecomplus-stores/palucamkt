@@ -6,7 +6,36 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Politica de Privacidade",
+        "url": "https://www.palucamoveis.com.br/pages/privacidade"
+      },
+      {
+        "text": "Trocas e devoluções",
+        "url": "https://www.palucamoveis.com.br/pages/trocas"
+      },
+      {
+        "text": "Segurança",
+        "url": "https://www.palucamoveis.com.br/pages/seguranca"
+      },
+      {
+        "text": "Como comprar",
+        "url": "https://www.palucamoveis.com.br/pages/como-comprar"
+      },
+      {
+        "url": "https://www.palucamoveis.com.br/pages/entrega",
+        "text": "Prazo de Entrega"
+      },
+      {
+        "text": "Formas de pagamento",
+        "url": "https://www.palucamoveis.com.br/pages/pagamentos"
+      },
+      {
+        "text": "Blog",
+        "url": "https://www.palucamoveis.com.br/pages/blog"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
