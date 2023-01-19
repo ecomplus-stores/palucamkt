@@ -42,7 +42,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "lowest_price",
-      "title": "Maia populares!",
+      "title": "Mais populares!",
       "headless": false,
       "limit": 8,
       "page": 2
