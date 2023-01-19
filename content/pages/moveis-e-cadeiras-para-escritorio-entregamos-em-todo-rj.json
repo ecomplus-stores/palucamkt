@@ -16,7 +16,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 10,
+      "limit": 12,
       "page": 1,
       "collection_id": "63b582374834634f7327e28d:categories:Móveis:/moveis-de-escritorio",
       "sort": null,
