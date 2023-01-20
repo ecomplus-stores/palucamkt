@@ -22,6 +22,10 @@
       "sort": null,
       "title": "Cadeiras para escritório",
       "link": "cadeiras-para-escritorio"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ],
   "meta_description": "Você está procurando móveis e cadeiras de escritório de qualidade entregues diretamente em sua empresa no Rio de Janeiro? Não procure mais! Confira aqui!"
