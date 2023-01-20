@@ -8,20 +8,20 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "63b582b84834634f7327e2c8:categories:Cadeiras:/cadeiras-para-escritorio",
+      "collection_id": "63b582374834634f7327e28d:categories:Móveis:/moveis-de-escritorio",
       "sort": null,
-      "title": "",
-      "link": "cadeiras-para-escritorio"
+      "title": "Móveis para escritório",
+      "link": "moveis-de-escritorio"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "63b582374834634f7327e28d:categories:Móveis:/moveis-de-escritorio",
+      "collection_id": "63b582b84834634f7327e2c8:categories:Cadeiras:/cadeiras-para-escritorio",
       "sort": null,
-      "title": "Móveis para escritório",
-      "link": "moveis-de-escritorio"
+      "title": "Cadeiras para escritório",
+      "link": "cadeiras-para-escritorio"
     }
   ]
 }
