@@ -6,7 +6,7 @@
     },
     {
       "type": "product-block",
-      "enabled": true,
+      "enabled": false,
       "size_guide": {
         "image": "",
         "title": ""
@@ -23,11 +23,6 @@
     {
       "type": "related-products",
       "title": "Produtos relacionados"
-    },
-    {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:",
-      "show_loading": true
     }
   ]
 }
