@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#f76c1a",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "ecom-beauty"
   },
   "bg_color": "#fffaf0",
   "repository": "ecomplus-stores/palucamkt",
